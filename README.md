@@ -15,8 +15,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joao-vitor1007&show_icons=true&bg_color=0d1117&title_color=adff2f&icon_color=adff2f&text_color=ffffff&border_color=30363d&v=2" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor1007&layout=normal&bg_color=0d1117&title_color=adff2f&text_color=ffffff&border_color=30363d&langs_count=4&v=2" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joao-vitor1007&show_icons=true&bg_color=0d1117&title_color=adff2f&icon_color=adff2f&text_color=ffffff&border_color=30363d&bypass_cache=1" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor1007&layout=normal&bg_color=0d1117&title_color=adff2f&text_color=ffffff&border_color=30363d&langs_count=4&bypass_cache=1" height="175" alt="Top Languages" />
 </div>
 
 <br>
