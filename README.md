@@ -12,13 +12,6 @@
 
 <br>
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joao-vitor1007&show_icons=true&bg_color=0d1117&title_color=adff2f&icon_color=adff2f&text_color=ffffff&border_color=30363d&bypass_cache=1" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor1007&layout=normal&bg_color=0d1117&title_color=adff2f&text_color=ffffff&border_color=30363d&langs_count=4&bypass_cache=1" height="175" alt="Top Languages" />
-</div>
-
 <br>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joao_vitor_77zz)
