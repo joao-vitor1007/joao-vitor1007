@@ -1,6 +1,6 @@
 <h1 align="center">Olá, me chamo João Vitor </h1>
 
-<h3 align="center">Desenvolvedor Full Stack crio soluções eficientes e escaláveis.</h3>
+<h3 align="center">Desenvolvedor Full Stack, crio soluções eficientes e escaláveis.</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joão-vitor-650422323/" target="_blank">
