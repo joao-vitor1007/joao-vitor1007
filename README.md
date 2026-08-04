@@ -36,16 +36,3 @@
 </div>
 
 <br>
-
-##  Estatísticas do GitHub
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-1007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do João" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor1007&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens" />
-</div>
-
----
-<div align="center">
-  <em>Sinta-se à vontade para entrar em contato ou dar uma olhada nos meus repositórios abaixo! 🚀</em>
-</div>
